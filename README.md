@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything I could contribute to. I need some practice working with others and I could ALWAYS learn more things.
 - 📫 You can reach me on LinkedIn @ https://www.linkedin.com/in/kelvin-leeks/
 
+I am still in the proccess of adding my projects! 
+
 
 <!---
 KelvinLeeksII/KelvinLeeksII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
